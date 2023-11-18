@@ -1,15 +1,23 @@
-### Hi there, my name is Elsa👋
+<br/><br/> 
+<h3 align="center"; > Hi there, my name is Elsa 👋 </h3>
+<br/><br/> 
 
 ## ABOUT ME
-I'm a frontend developper based in France.
+
+frontend developper based in France.
 
 - 🤓 I’m currently diving more into TypeScript
+ 
 - ❤️ love learning new languages and algorithm challenges
+
 - 💬 Ask me anything [here](https://github.com/elsa-wanderlust/elsa-wanderlust/issues)
+  
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/elsa-camille)
+<br/><br/> 
 
-## I USE
+## I ENJOY
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +37,10 @@ I'm a frontend developper based in France.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
+<br/><br/> 
+
 --- 
+
+<br/><br/> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsa-wanderlust&hide=css,scss,html&theme=tokyonight)
 
