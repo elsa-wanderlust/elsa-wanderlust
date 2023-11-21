@@ -13,7 +13,7 @@ frontend developper based in France.
 - 💬 Ask me anything [here](https://github.com/elsa-wanderlust/elsa-wanderlust/issues)
   
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/elsa-camille)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-camille)
 <br/><br/> 
 
 ## I ENJOY
