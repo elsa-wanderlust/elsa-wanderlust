@@ -8,7 +8,7 @@ frontend developper based in France.
 
 - 🤓 I’m currently diving more into TypeScript
  
-- ❤️ love learning new languages and algorithm challenges
+- ❤️ love learning new languages and doing algorithm challenges
 
 - 💬 Ask me anything [here](https://github.com/elsa-wanderlust/elsa-wanderlust/issues)
   
